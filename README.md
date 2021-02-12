@@ -1,4 +1,7 @@
 ﻿
+ 
+-autor deste read.me [NazwaS](https://github.com/NazwaS)
+
 ### Tools
 
 ```bash
