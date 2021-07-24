@@ -2,7 +2,7 @@ console.log('[SYSTEM] Iniciando o Bot...')
 let { spawn } = require('child_process')
 let path = require('path')
 const CFonts  = require('cfonts')
-CFonts.say('BOT INDO APRII', {
+CFonts.say('WHATSAPP BOT', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
