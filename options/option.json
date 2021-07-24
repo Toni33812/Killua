@@ -1,10 +1,10 @@
 {
-    "botName": "Killua",
-    "ownerName": "Mateus",
+    "botName": "BOT INDO",
+    "ownerName": "APRII",
     "API key": "ZwyhUr-kDsxsq-nuDPPq-tPlNJX-sTMGAe",
-    "ownerNumbers": "554591233629@s.whatsapp.net",
+    "ownerNumbers": "628811929177@s.whatsapp.net",
     "languages": "por",
-    "botPrefix": ".",
-    "memberLimitss": "25",
-    "userDefaultLimit": "30"
+    "botPrefix": "#?!.",
+    "memberLimitss": "5",
+    "userDefaultLimit": "40"
 }
